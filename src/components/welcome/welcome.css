@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+#about {
+  padding: 105px 0;
+}
+.head-line {
+  line-height: 1.5;
+  font-size: 36px;
+  text-align: left;
+  font-weight: 400;
+  color: black;
+  text-transform: uppercase;
+  font-family: "Oswald", "Times New Roman", Times, serif;
+  letter-spacing: 2px;
+}
+.hr {
+  height: 1px;
+  padding: 0px;
+  margin-top: 21px;
+  background: #eee;
+  border: none;
+  margin-top: 45px;
+}
+.text-wrap {
+  display: flex;
+  justify-content: center;
+}
+.text-base {
+  margin-top: 40px;
+  max-width: 91%;
+  text-align: center;
+  padding: 0 15px;
+  line-height: 1.33333;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  text-align: justify;
+}

@@ -1,0 +1,13 @@
+.filter-page {
+  height: 100vh;
+}
+.section-pagetop {
+  margin: 100px 0 50px;
+}
+.page-title {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff7004;
+}
